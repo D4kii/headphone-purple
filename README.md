@@ -1,6 +1,6 @@
 # Headphone Razer Kraken Purple
 
-![](./img/screenshot.png)
+![](./img/screenshot2.png)
 
 ---
 
