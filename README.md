@@ -2,6 +2,7 @@
 
 ![](./img/screenshot2.png)
 
+[acesse o site](https://d4kii.github.io/headphone-purple/)
 ---
 
 ## Sobre
