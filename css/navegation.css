@@ -3,6 +3,7 @@
     width: 50px;
     font-size: 2rem;
     color: #76045d;
+    background-color: #ffffff;
     display: grid;
     place-items: center;
 }
